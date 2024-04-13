@@ -1,4 +1,4 @@
-# Kısa Soru Android
+# Kısa Soru Android Soru Cevap Yarışması
 
 Bu proje, klasik soru yarışması formatında bir Android uygulamasıdır.
 
