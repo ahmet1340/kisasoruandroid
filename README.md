@@ -14,5 +14,5 @@ Proje, Android Studio kullanılarak geliştirilmiştir. Detaylı bilgi için aş
 
 [![Kısa Soru Android](https://img.youtube.com/vi/zh_eBIdQcEA/0.jpg)](https://www.youtube.com/watch?v=zh_eBIdQcEA)
 
-Yukarıdaki bağlantıya tıklayarak projenin YouTube'daki tanıtım videosunu izleyebilirsiniz. (VIDEO_ID kısmını projenin YouTube videosunun ID'si ile değiştirin.)
+Yukarıdaki bağlantıya tıklayarak projenin YouTube'daki tanıtım videosunu izleyebilirsiniz. 
 
