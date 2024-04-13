@@ -10,7 +10,7 @@ Kısa Soru Android, 2019 yılında oluşturulmuştur. Java programlama dili kull
 
 Proje, Android Studio kullanılarak geliştirilmiştir. Detaylı bilgi için aşağıdaki videoyu izleyebilirsiniz.
 
-## YouTube Tanıtımı
+## Video Tanıtımı
 
 [![Kısa Soru Android](https://img.youtube.com/vi/zh_eBIdQcEA/0.jpg)](https://www.youtube.com/watch?v=zh_eBIdQcEA)
 
